@@ -7,6 +7,6 @@ class FurCloak implements Armor
 {
     public function equip(): string
     {
-        return "Drapes fur cloak over bare shoulders. Primal!";
+        return "🦁  Drapes fur cloak over bare shoulders. Primal!";
     }
 }

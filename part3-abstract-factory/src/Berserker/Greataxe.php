@@ -7,6 +7,6 @@ class Greataxe implements Weapon
 {
     public function use(): string
     {
-        return "Swings massive greataxe in a deadly arc!";
+        return "🪓  Swings massive greataxe in a deadly arc!";
     }
 }

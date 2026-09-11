@@ -7,6 +7,6 @@ class Rage implements Ability
 {
     public function activate(): string
     {
-        return "RAGE! Frenzy takes over — unstoppable fury!";
+        return "😤  RAGE! Frenzy takes over — unstoppable fury!";
     }
 }
